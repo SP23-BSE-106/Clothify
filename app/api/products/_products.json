@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Classic White T-Shirt",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1520975698518-7e4b7f6a3e6b?auto=format&fit=crop&w=800&q=80",
+    "description": "Comfortable classic white tee made from 100% cotton. Perfect for everyday wear.",
+    "sizes": ["S","M","L","XL"],
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "name": "Blue Denim Jacket",
+    "price": 69.99,
+    "image": "https://images.unsplash.com/photo-1562158070-9b1f3b1f8f8e?auto=format&fit=crop&w=800&q=80",
+    "description": "Stylish denim jacket with durable stitching and a relaxed fit.",
+    "sizes": ["M","L","XL"],
+    "stock": 5
+  },
+  {
+    "id": "3",
+    "name": "Black Skinny Jeans",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?auto=format&fit=crop&w=800&q=80",
+    "description": "Slim-fit black jeans with stretch for comfort and mobility.",
+    "sizes": ["S","M","L"],
+    "stock": 8
+  },
+  {
+    "id": "4",
+    "name": "Red Summer Dress",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=800&q=80",
+    "description": "Lightweight summer dress in a vibrant red hue.",
+    "sizes": ["S","M","L"],
+    "stock": 3
+  }
+]
